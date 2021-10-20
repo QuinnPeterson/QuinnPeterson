@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Quinn
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://twitter.com/i/status/1281111778290786310)
 
 I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
 
