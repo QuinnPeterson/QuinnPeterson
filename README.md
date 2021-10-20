@@ -6,7 +6,7 @@ I am a Software Developer passionate about creating apps with the latest and gre
 Skills: HTML / CSS / REACT / JS / PHP / MYSQL / C#/ ASP.NET/ JAVA
 
 - Love coffee ☕ 
-
+- Love Software Development
 
 
 
