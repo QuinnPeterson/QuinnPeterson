@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Quinn
-![](https://twitter.com/i/status/1281111778290786310)
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
 
