@@ -9,6 +9,7 @@ Skills:
 -PHP / MYSQL  
 -C#/ ASP.NET 
 -JAVA
+-C++
 
 - Obsessed with coffee ☕ 
 - Love's Software Development
