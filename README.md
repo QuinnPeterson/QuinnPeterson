@@ -3,10 +3,15 @@
 
 I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
 
-Skills: HTML / CSS / REACT / JS / PHP / MYSQL / C#/ ASP.NET/ JAVA
+Skills: 
+-HTML / CSS 
+-REACT / JS 
+-PHP / MYSQL  
+-C#/ ASP.NET 
+-JAVA
 
-- Love coffee ☕ 
-- Love Software Development
+- Obsessed with coffee ☕ 
+- Love's Software Development
 
 
 
