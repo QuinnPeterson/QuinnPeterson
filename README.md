@@ -14,13 +14,6 @@
 
 <br />
 
-<h2 align="center">About me 😇</h2>
-<br />
-
-<p align="center">
-I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
-</p>
-
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
