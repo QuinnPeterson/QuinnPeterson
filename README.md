@@ -1,8 +1,4 @@
 <!-- ### Hi there 👋, I am Quinn
-![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
-I am a Software Developer passionate about creating apps with the latest and greatest technologies.
-
 Skills:
 * HTML / CSS
 * REACT / JS
@@ -10,13 +6,7 @@ Skills:
 * C#/ ASP.NET
 * JAVA
 * C++
-
-- Obsessed with coffee ☕
-- Love's Software Development
-
-
  -->
-
 
 <p align="center">
      <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="dino banner"/>
@@ -27,33 +17,29 @@ Skills:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/quinn-peterson-894729163"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
-<!-- TODO Portfolio section -->
+<a align="center" href="https://www.linkedin.com/in/quinn-peterson-894729163"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
-<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white"     alt="Portfolio" /></a>&nbsp;
+<a align="center"href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white"     alt="Portfolio" /></a>&nbsp;
 
-<a href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a align="center" href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 
 </p>
 
-<br />
 <br />
 
 <h2 align="center">About me 😇</h2>
 <br />
 
-
 <p>
 I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
-</p>  
+</p>
 
 <br />
 
 <p>
 
-</p>  
-
+</p>
 
 <!-- <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
 
@@ -63,7 +49,6 @@ I am a Software Developer passionate about creating apps with the latest and gre
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
 <p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p> -->
 
-<br />
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
