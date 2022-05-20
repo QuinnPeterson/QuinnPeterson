@@ -17,6 +17,11 @@ Skills:
 
  -->
 
+
+<p align="center">
+     <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="dino banner"/>
+</p>
+ 
 <p>
   <h1 align="center"><b>Hi there, I'm Quinn! </h1>
 </p>
@@ -26,18 +31,39 @@ Skills:
 
 <!-- TODO Portfolio section -->
 
-<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white"     alt="Portfolio" /></a>&nbsp;
 
 <a href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 
 </p>
 
 <br />
+<br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
+<h2 align="center">About me 😇</h2>
+<br />
 
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility.</p>
+
+<p>
+I am a Software Developer passionate about creating apps with the latest and greatest technologies. 
+</p>  
+
+<br />
+
+<p>
+
+</p>  
+
+
+<!-- <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+
+<!-- <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
+<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
+<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p> -->
+
+<br />
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -64,19 +90,6 @@ Skills:
 
 <br />
 
-<h2 align="center">About me 😇</h2>
-<br />
-<!-- <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-<!-- <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p> -->
-
-<br />
-<br />
-
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
@@ -101,8 +114,8 @@ Skills:
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=QuinnPeterson&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnPeterson&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=QuinnPeterson&theme=algolia&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnPeterson&layout=compact&theme=algolia" width="400" />
 </p>
 
 ---
