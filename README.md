@@ -13,10 +13,10 @@
 
 <br />
 
-<br />
+<!-- <br />
 
 <h2 align="center">My favorite projects 💻</h2>
-<br />
+<br /> -->
 
 <p align="center">
   <!-- <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
