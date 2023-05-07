@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/quinn-peterson-894729163/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<!-- <a href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
 </p>
 
 <br />
