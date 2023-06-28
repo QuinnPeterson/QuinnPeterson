@@ -11,8 +11,9 @@
 </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="60"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="40"  /></p>
 
+### :woman_technologist: &nbsp;About Me :
 
 <br />
 
