@@ -7,34 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/quinn-peterson-894729163/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<!-- <a href="https://codepen.io/quinnpeterson"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-</p>
-
-<br />
-
-<!-- <br />
-
-<h2 align="center">My favorite projects 💻</h2>
-<br /> -->
-
-<p align="center">
-  <!-- <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a> -->
+<a href="https://www.linkedin.com/in/quinn-peterson-software-engineer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <br />
