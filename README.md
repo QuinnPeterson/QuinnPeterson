@@ -11,7 +11,6 @@
 </p>
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=quinnpeterson)
 </p>
 
 <br />
