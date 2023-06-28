@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="600" height="300"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="60"  /></p>
 
 
 <br />
