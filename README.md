@@ -3,7 +3,7 @@
 </p>
  
 <p>
-  <h1 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Quinn! </h1>
+  <h1 align="center"><b>Hi there, I'm Quinn!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
 
 </p>
 
@@ -13,8 +13,8 @@
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="20"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
+---
+### 👨‍💻: &nbsp;About Me :
 
 <br />
 
