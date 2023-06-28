@@ -9,7 +9,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/quinn-peterson-software-engineer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;     
 </p>
-![](https://komarev.com/ghpvc/?username=quinnpeterson)
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="600" height="300"  /></p>
+
 
 <br />
 
