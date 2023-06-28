@@ -4,6 +4,9 @@
  
 <p>
   <h1 align="center"><b>Hi there, I'm Quinn! </h1>
+       
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 </p>
 
 <p align="center">
@@ -11,7 +14,7 @@
 </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="40"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=quinnpeterson" width="100" height="29"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
