@@ -19,7 +19,8 @@
 I am a Full Stack Developer.
 
 - I’m a Software Engineer building frontend and backend web applications.
-- In my free time I solve problems on LeetCode and read tech articles.
+- I love learning new technologies and contributing to open-source projects.
+- I am currently working on something cool.
 
   
 ---
