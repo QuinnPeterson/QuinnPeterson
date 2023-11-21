@@ -1,9 +1,7 @@
 <p align="center">
      <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="dino banner"/>
 </p>
- 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quinn Peterson
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quinn Peterson
 ======================================================================================================================================
 
 I am a Software Developer
