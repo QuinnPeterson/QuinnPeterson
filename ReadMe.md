@@ -7,8 +7,8 @@
 
 </p>
 # 💫About Me :
- - I’m a Software Engineer building full stack web applications.
- - I love learning new technologies and contributing to open-source projects.
+ I’m a Software Engineer building full stack web applications.
+ I love learning new technologies and contributing to open-source projects.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quinn-peterson-software-engineer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13450872/quinn-peterson) 
