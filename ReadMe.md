@@ -6,7 +6,7 @@
   <h1 align="center"><b>Hi there, I'm Quinn!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
 
 </p>
-<h1>💫About Me: </h1> 
+<h1>💫About Me </h1> 
  I’m a Software Engineer building full-stack web applications.
  I love learning new technologies and contributing to open-source projects.
  <br>
