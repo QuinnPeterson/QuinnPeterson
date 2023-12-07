@@ -7,8 +7,9 @@
 
 </p>
 <h1>💫About Me </h1> 
- I’m a Software Engineer building full-stack web applications.
- I love learning new technologies and contributing to open-source projects.
+I’m a Software Engineer building full-stack web applications.
+I enjoy finding solutions to challenging issues and transforming obstacles into opportunities. 
+I have developed a wide range of projects, from backend systems to fun web applications. 
  <br>
  <br>
  
